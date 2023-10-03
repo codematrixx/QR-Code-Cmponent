@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:()
+- Solution URL:(https://www.frontendmentor.io/solutions/qr-code-component---erPurbfM)
 - Live Site URL:(https://qr-component-tawny-beta.vercel.app/)
 
 ## Author
